@@ -208,7 +208,7 @@ function puf() {
 }
 
 function po() {
-	git push origin
+	git push origin $args[0]
 }
 
 function pof() {
