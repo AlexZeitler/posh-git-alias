@@ -14,7 +14,7 @@ git clone git@github.com:AlexZeitler/posh-git-alias.git
 Find your PowerShell Profile:
 ```
 C:\$PROFILE
-# resturns:
+# returns:
 # C:\Users\AlexZeitler\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
 ```
 
