@@ -119,7 +119,7 @@ function aua() {
 # git checkout
 
 function c() {
-	git checkout
+	git checkout $args[0]
 }
 
 function cp() {
