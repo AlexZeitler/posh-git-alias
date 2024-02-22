@@ -1,3 +1,7 @@
+function sw() {
+	git switch $args
+}
+
 function unresolve() {
 	git checkout --conflict=merge --
 }
